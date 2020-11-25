@@ -1,0 +1,17 @@
+900x900x1x0
+
+L
+
+#def
+L:*RF/LFL/FR*
+R:/LF*RFR*FL/
+#end
+
+#al
+F:f10
+*:r90
+/:r-90
+#end
+
+#rek
+4

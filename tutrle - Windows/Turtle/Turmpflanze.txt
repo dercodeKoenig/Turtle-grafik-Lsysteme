@@ -1,0 +1,16 @@
+900x900x1x0
+r90
+F
+
+#def
+F:F[*F[/F]/F][/F]F
+#end
+
+#al
+F:f10
+*:r20
+/:r-20
+#end
+
+#rek
+6

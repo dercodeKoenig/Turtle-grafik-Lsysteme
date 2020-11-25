@@ -1,0 +1,16 @@
+900x900x1x0
+
+F/F/F/F/F/F
+
+#def
+F:/F*F//F*FF
+#end
+
+#al
+F:f10
+*:r60
+/:r-60
+#end
+
+#rek
+3
